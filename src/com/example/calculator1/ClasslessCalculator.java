@@ -109,8 +109,6 @@ public class ClasslessCalculator {
                     result = divide;
                     System.out.println("결과 : " + result);
                     break;
-                default: // 조건식의 결과 값이 위의 어떤 값에도 해당하지 않을 때 실행되는 코드
-//                    System.out.println("잘못된 기호입니다. 다시 입력해주세요.");
             }//switch
 
             //결과 =============
