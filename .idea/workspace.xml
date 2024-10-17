@@ -7,8 +7,7 @@
     <list default="true" id="73be1b00-eb4d-43bf-b892-36f63116f853" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/calculator2/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/calculator2/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/example/calculator2/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/example/calculator2/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/calculatorProject/com/example/calculator2/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/calculatorProject/com/example/calculator2/App.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/sparta_java_study/calculatorProject",
+    "last_opened_file_path": "C:/sparta_java_study/sparta_java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -96,7 +95,7 @@
       <workItem from="1728367954826" duration="1840000" />
       <workItem from="1728369887280" duration="1371000" />
       <workItem from="1728973440639" duration="3580000" />
-      <workItem from="1729067588146" duration="38858000" />
+      <workItem from="1729067588146" duration="43885000" />
     </task>
     <servers />
   </component>
