@@ -90,7 +90,6 @@ public class App {
                 System.out.println("삭제 후 list : " + cal.getResultList());
             }//if
 
-
             //연산 결과 삭제여부 =============
             System.out.println("가장 먼저 저장된 데이터를 삭제하시겠습니까? (remove 입력 시 삭제) 아니면 n 키를 입력주세요.");
             if (sc.nextLine().equals("remove")) {

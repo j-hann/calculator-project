@@ -49,7 +49,7 @@ public class Calculator {
 
     //Setter 메서드 구현 -> 저장, 수정할 필요가 있을때 사용
     //쓰기 어려움..
-//    public void setResultList(int num1, char operatorChar, int num2) {
+//    public void setResultList(Queue<Double> resultList) {
 //        this.resultList = resultList;
 //    }//setResultList
 
