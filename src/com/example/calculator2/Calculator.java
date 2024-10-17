@@ -9,10 +9,9 @@ public class Calculator {
 //            3. 객체를 생성하는 방식을 정의합니다.(생성자)
 //            4. 객체가 가지고 있어야 할 행위(메서드)를 정의합니다.
 
-
-
     //속성(필드)
-//    int result =
+    double result = 0;//결과
+
     
     //생성자
 
